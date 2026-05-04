@@ -1,25 +1,3 @@
-#!/usr/bin/env python
-# Impacket - Collection of Python classes for working with network protocols.
-#
-# Copyright Fortra, LLC and its affiliated companies 
-#
-# All rights reserved.
-#
-# This software is provided under a slightly modified version
-# of the Apache Software License. See the accompanying LICENSE file
-# for more information.
-#
-# Description:
-#   DCE/RPC endpoint mapper dumper.
-#
-# Author:
-#   Javier Kohen
-#   Alberto Solino (@agsolino)
-#
-# Reference for:
-#   DCE/RPC.
-#
-
 from __future__ import division
 from __future__ import print_function
 import sys
